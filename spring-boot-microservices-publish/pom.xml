@@ -41,7 +41,7 @@
 
 	<scm>
 		<connection>scm:git:git://github.com/Adilgitbub/spring-boot-microservices-publish.git</connection>
-		<developerConnection>scm:git:ssh://github.com:Adilgitbub/spring-boot-microservices-publish.git</developerConnection>
+		<developerConnection>scm:git:https://github.com:Adilgitbub/spring-boot-microservices-publish.git</developerConnection>
 		<url>https://github.com/Adilgitbub/spring-boot-microservices-publish</url>
 	  <tag>2</tag>
   </scm>
