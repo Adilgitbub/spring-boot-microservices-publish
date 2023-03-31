@@ -10,7 +10,7 @@
 
 	<groupId>io.github.adilgitbub</groupId>
 	<artifactId>spring-boot-microservices-publish</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>2</version>
 
 	<name>spring-boot-microservices-publish</name>
 	<description>Demo project to publish on Maven Central Repo</description>
